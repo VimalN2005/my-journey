@@ -1,3 +1,4 @@
 # 🚀 My Coding Journey
 Welcome to my GitHub journey repository! Here I track my progress, open-source contributions, and technical learnings.
- Learning GitHub & Open Source
+Learning GitHub & Open Source
+- Collaborating with the developer community
