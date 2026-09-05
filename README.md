@@ -2,3 +2,4 @@
 Welcome to my GitHub journey repository! Here I track my progress, open-source contributions, and technical learnings.
 Learning GitHub & Open Source
 - Collaborating with the developer community
+- Pair programming with vimal07ai
